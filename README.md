@@ -1,8 +1,11 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+.
+
+implemented a voting contract with solidity and added test with hardhat and chai, to test the validity of the code. a user can vote base on the options inputed by the poll creator and poll can be closed only by the poll creator.\
 
 Try running some of the following tasks:
+
 
 ```shell
 npx hardhat help
